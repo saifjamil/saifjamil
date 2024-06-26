@@ -1,6 +1,6 @@
 ### Hi there 👋, I'm Saif Jamil
 #### Web Developer and Enthusiastic Learner
-![Web Developer and Enthusiastic Learner](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
+
 
 Hi, I'm Saif Jamil, a beginner web developer with a passion for building and designing web applications. I enjoy learning new technologies and improving my skills in HTML, CSS, Tailwind CSS, JavaScript, and programming languages like JS, C and C++.
 
