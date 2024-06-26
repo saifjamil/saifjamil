@@ -1,52 +1,28 @@
-<h1 align="center">saifjamil</h1>
+### Hi there 👋, My name is Saif Jamil
+####  Web Developer and Enthusiastic Learner
+![ Web Developer and Enthusiastic Learner](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rifatibnatoukir811&label=Profile%20views&color=0e75b6&style=flat" alt="rifatibnatoukir811" /> </p>
-
-<p align="left"> <a href="https://x.com/rifatibnatoukir" target="blank"><img src="https://img.shields.io/twitter/follow/rifatibnatoukir?logo=twitter&style=for-the-badge" alt="rifatibnatoukir" /></a> </p>
-
-<h3 align="center">I'm an Front-End Developer</h3>
+Hi, I'm Saif Jamil. I am a beginner web developer with a strong interest in building and designing web applications. I am passionate about learning new technologies and continuously improving my skills. Currently, I am focused on mastering HTML, CSS, Tailwind CSS, JavaScript, and programming languages like C and C++. I am excited about the journey ahead and eager to contribute to meaningful projects.
 
 
-- 🔭 I’m currently working on [My Portfolio](https://typo-portfolio.vercel.app/)
+Skills:  REACT / JS / HTML / CSS/C/C++
 
-- 🌱 I’m currently learning **React JS**
-
-- 👯 I’m looking to collaborate on [Orebi(eCommerce)](http://clone-e-commerce.vercel.app/)
-
-- 👨‍💻 All of my projects are available at (https://typo-portfolio.vercel.app/)
-
-- 💬 Ask me about **react**
-
-- 📫 How to reach me **ritoukir@gmail.com**
+- 🔭 I’m currently working on this page. 
 
 
-#### How to reach me?
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/saifjamil)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/https://www.facebook.com/saifjamil51?mibextid=ZbWKwL)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/https://www.instagram.com/saif_jamil_252?igsh=MWdvZXJiNTlxNW9oYQ==/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/https://x.com/saifjamil51)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg' alt='YouTube' height='40'>](https://www.youtube.com/channel/@SJExplain1288)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/leetcode.svg' alt='leetcode' height='40'>](https://leetcode.com/u/saifjamil51/)  
 
-<a href="https://x.com/rifatibnatoukir">
-  <img align="left" alt="Twitter" width="22px" src="./twitter.svg" />
-</a>
-<a href="https://www.linkedin.com/in/rifat-ibna-toukir/">
-  <img align="left" alt="LinkedIn" width="22px" src="./linkedin.svg" />
-</a>
-<a href="https://www.facebook.com/Rifatibnatoukir82/">
-  <img align="left" alt="Facebook" width="22px" src="./facebook.svg" />
-</a>
-<a href="">
-  <img align="left" alt="Dev" width="22px" src="./dev.svg" />
-</a>
-<a href="#">
-  <img align="left" alt="Medium" width="22px" src="./medium.svg" />
-</a>
-<a href="mailto:ritoukir@gmail.com">
-  <img align="left" alt="Mail" width="22px" src="./gmail.svg" />
-</a>
+<a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a> <a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'></a> <a href='https://docs.github.com/en/github/supporting-the-open-source-community-with-github-sponsors'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/sponsorbadge.gif' width='35' height='35'></a> 
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=https://github.com/saifjamil)](https://github.com/ryo-ma/github-profile-trophy)
 
-<br/>
-<br/>
-<br/>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=https://github.com/saifjamil)](https://github.com/anuraghazra/github-readme-stats)
 
-<p align="center">
-<a href="http://www.github.com/rifatibnatoukir811"><img src="https://github-readme-stats.vercel.app/api?username=rifatibnatoukir811&show_icons=true&hide=&count_private=true&title_color=3382ed&text_color=ffffff&icon_color=3382ed&bg_color=1c1917&hide_border=true&show_icons=true" alt="rifatibnatoukir811's GitHub stats" /></a>
-<a href="http://www.github.com/rifatibnatoukir811"><img src="https://github-readme-streak-stats.herokuapp.com/?user=rifatibnatoukir811&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
- </p>
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=https://github.com/saifjamil&show_icons=true&count_private=true)  
+
+![Vaunt Badge](https://api.vaunt.dev/v1/github/entities/https://github.com/saifjamil/contributions?format=svg&private=true)  
+
+![GitHub metrics](https://metrics.lecoq.io/https://github.com/saifjamil)  
+
+![GitHub streak stats](https://streak-stats.demolab.com/?user=https://github.com/saifjamil)  
+
