@@ -1,28 +1,42 @@
-### Hi there 👋, My name is Saif Jamil
-####  Web Developer and Enthusiastic Learner
-![ Web Developer and Enthusiastic Learner](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
+### Hi there 👋, I'm Saif Jamil
+#### Web Developer and Enthusiastic Learner
+![Web Developer and Enthusiastic Learner](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
 
-Hi, I'm Saif Jamil. I am a beginner web developer with a strong interest in building and designing web applications. I am passionate about learning new technologies and continuously improving my skills. Currently, I am focused on mastering HTML, CSS, Tailwind CSS, JavaScript, and programming languages like C and C++. I am excited about the journey ahead and eager to contribute to meaningful projects.
+Hi, I'm Saif Jamil, a beginner web developer with a passion for building and designing web applications. I enjoy learning new technologies and improving my skills in HTML, CSS, Tailwind CSS, JavaScript, and programming languages like JS, C and C++.
+
+### Skills
+- REACT
+- JS
+- HTML
+- CSS
+- C
+- C++
+
+### Connect with me
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)](https://github.com/saifjamil)
+[![Facebook](https://img.shields.io/badge/-Facebook-1877F2?style=flat-square&logo=facebook)](https://www.facebook.com/saifjamil51)
+[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=instagram)](https://www.instagram.com/saif_jamil_252)
+[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=twitter)](https://twitter.com/saifjamil51)
+[![YouTube](https://img.shields.io/badge/-YouTube-FF0000?style=flat-square&logo=youtube)](https://www.youtube.com/@SJExplain1288)
+[![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=flat-square&logo=leetcode)](https://leetcode.com/saifjamil51)
+
+### GitHub Badges
+[![GitHub Archive Program](https://img.shields.io/badge/GitHub-Archive%20Program-7B16FF?style=flat-square&logo=github)](https://archiveprogram.github.com/)
+[![GitHub Developer Program](https://img.shields.io/badge/GitHub-Developer%20Program-1B6AC6?style=flat-square&logo=github)](https://docs.github.com/en/developers)
+[![GitHub Pro](https://img.shields.io/badge/GitHub-Pro-181717?style=flat-square&logo=github)](https://github.com/pricing)
+[![GitHub Stars](https://img.shields.io/badge/GitHub-Stars-F5B042?style=flat-square&logo=github)](https://stars.github.com/)
+[![GitHub Sponsors](https://img.shields.io/badge/GitHub-Sponsors-ea4aaa?style=flat-square&logo=github)](https://docs.github.com/en/github/supporting-the-open-source-community-with-github-sponsors)
+
+### GitHub Stats
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=saifjamil&theme=dark)](https://github.com/DenverCoder1/github-readme-streak-stats)
 
 
-Skills:  REACT / JS / HTML / CSS/C/C++
-
-- 🔭 I’m currently working on this page. 
 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/saifjamil)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/https://www.facebook.com/saifjamil51?mibextid=ZbWKwL)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/https://www.instagram.com/saif_jamil_252?igsh=MWdvZXJiNTlxNW9oYQ==/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/https://x.com/saifjamil51)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg' alt='YouTube' height='40'>](https://www.youtube.com/channel/@SJExplain1288)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/leetcode.svg' alt='leetcode' height='40'>](https://leetcode.com/u/saifjamil51/)  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=saifjamil&layout=compact&langs_count=8&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
-<a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a> <a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'></a> <a href='https://docs.github.com/en/github/supporting-the-open-source-community-with-github-sponsors'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/sponsorbadge.gif' width='35' height='35'></a> 
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=saifjamil&show_icons=true&count_private=true&theme=dark)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=https://github.com/saifjamil)](https://github.com/ryo-ma/github-profile-trophy)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=https://github.com/saifjamil)](https://github.com/anuraghazra/github-readme-stats)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=https://github.com/saifjamil&show_icons=true&count_private=true)  
-
-![Vaunt Badge](https://api.vaunt.dev/v1/github/entities/https://github.com/saifjamil/contributions?format=svg&private=true)  
-
-![GitHub metrics](https://metrics.lecoq.io/https://github.com/saifjamil)  
-
-![GitHub streak stats](https://streak-stats.demolab.com/?user=https://github.com/saifjamil)  
-
+![GitHub streak stats](https://streak-stats.demolab.com/?user=saifjamil&theme=dark)
